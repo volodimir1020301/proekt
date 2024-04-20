@@ -1,0 +1,114 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+text-align: center;
+color: rgb(125, 114, 185)
+
+}
+nav{
+;
+
+}
+
+a{
+margin: 5px;
+border: 3px double rgb(9, 119, 170);
+
+}
+
+body{
+color:EEE2DE ;
+background: rgb(0,29,108);
+background: linear-gradient(260deg, rgba(0,29,108,1) -2%, rgba(255,0,1,1) 100%);;
+    font-size: 254;
+}
+nav{
+   margin: 10px 10px;
+   text-align: center;
+   
+}
+
+
+nav a {
+    text-decoration: none;
+    padding: 5px; 
+    color: black;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+}
+
+p{
+display: flex ;
+border: 3px solid black;
+border-radius: 10px;
+background-color: rgb(201, 204, 7);
+padding: 10px;
+}
+
+p img{
+display: flex;
+
+}
+div{
+display: flex;
+margin: 10px;
+
+}
+
+footer{
+
+
+}
+
+ol{
+border: 3px solid black;
+width: 300px;
+border-radius: 10px;
+background-color: rgb(204, 201, 22);
+
+}
+
+
+
+.vv{
+border: 3px solid rgb(0, 0, 0);
+
+}
+
+
+.vvv{
+margin: 10px;
+
+}
+
+.vvvv{
+margin-right: 10px;
+
+}
+
+.cc:hover{
+transition: 2s ease-in;
+color: black;
+background-color: chartreuse;
+}
+
+.nn{
+color: black;
+background-color: black;
+}
+
+.nn:hover{
+transition: 2s ease-in;
+color: black;
+background-color: rgb(196, 199, 14)
+
+}
+
+h1:hover{
+transition: 2s ease-in;
+color: black;
+background-color: rgb(118, 114, 141)
+
+}
