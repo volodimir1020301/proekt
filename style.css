@@ -18,9 +18,9 @@ border: 3px double rgb(9, 119, 170);
 }
 
 body{
-color:#EEE2DE ;
+color:EEE2DE ;
 background: rgb(0,29,108);
-background: linear-gradient(260deg, rgba(0,29,108,1) -2%, rgba(255,0,1,1) 100%);
+background: linear-gradient(260deg, rgba(0,29,108,1) -2%, rgba(255,0,1,1) 100%);;
 
 }
 nav{
@@ -79,9 +79,9 @@ border: 3px solid rgb(0, 0, 0);
 
 
 .vvv{
+
 margin: auto;
 width: 50%;
-
 }
 
 .vvvv{
@@ -99,6 +99,8 @@ background-color: chartreuse;
 text-align: center;
 
 }
+
+
 
 .nn{
 color: black;
@@ -119,7 +121,19 @@ background-color: rgb(118, 114, 141)
 
 }
 
+.zxcv{
+margin: 20px;
+padding: 20px;
+}
+
+
 .zzz{
+margin: auto;
+width: 50%;
+
+}
+
+.QQ{
 margin: auto;
 width: 50%;
 
